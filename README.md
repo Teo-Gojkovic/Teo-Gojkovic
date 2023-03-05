@@ -18,7 +18,7 @@ Je suis un passionné de développement, en particulier de la programmation pour
 [![](https://visitcount.itsvg.in/api?id=Teo-Gojkovic&icon=5&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/teogojkovic) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/teogojkovic) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
